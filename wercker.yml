@@ -70,4 +70,4 @@ deploy:
        org: $ORG
        space: $SPACE
        appname: pipeline
-       docker_image: maaldai/pipeline
+       docker_image: maaldai/go
